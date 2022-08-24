@@ -1,6 +1,6 @@
 {
-  "name": "@mosalin/eslint-config-common",
-  "version": "0.0.1",
+  "name": "@yingjianglin/eslint-config-common",
+  "version": "0.0.2",
   "description": "ESLint Config for frontend team.",
   "main": "index.js",
   "scripts": {
@@ -12,7 +12,7 @@
   },
   "keywords": [
     "eslint",
-    "elemefe"
+    "eslint-config-common"
   ],
   "author": "yingjianglin123@163.com",
   "license": "MIT",
