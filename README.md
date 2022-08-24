@@ -21,7 +21,7 @@ npm install --save-dev @mosalin/eslint-config-common eslint
 
 ### @mosalin/eslint-config-common/legacy
 
-适用一些适用es5的项目
+适用一些es5的项目
 
 安装包
 ```sh
